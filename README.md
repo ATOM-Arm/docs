@@ -1,19 +1,50 @@
-# 📘 Robotic Arm Docs
+# 📚 Robotic Arm – Documentation Repository
 
-Este repositório contém a documentação técnica e acadêmica do projeto **Robotic Arm with Computer Vision**.
-
-## ✍️ Conteúdo
-
-- 📅 `cronograma.md`: Planejamento por etapas
-- 👥 `equipe.md`: Integrantes e funções
-- 📚 `referencias.md`: Materiais e fontes utilizadas
-- 📄 `reports/`: Relatórios técnicos e teóricos
+This repository contains the **academic, technical, and planning documentation** related to the Robotic Arm with Computer Vision project developed by undergraduate students of Computer Science at Dom Helder School – Group GIC 2025.
 
 ---
 
-## 📜 Licença
+## 📁 Contents
 
-Este repositório está licenciado sob **Creative Commons Atribuição 4.0 Internacional (CC BY 4.0)**.  
-Você pode copiar, adaptar e redistribuir o conteúdo, desde que mencione os autores.
+This repository is organized into the following directories:
 
-🔗 [Texto completo da licença](https://creativecommons.org/licenses/by/4.0/legalcode)
+| Folder                      | Description                                                                 |
+|----------------------------|-----------------------------------------------------------------------------|
+| `requirements/`            | Initial technical, functional, and academic requirements                    |
+| `project-charter/`         | General planning, objectives, and scope definition                          |
+| `technical-docs/`          | Engineering documents: circuits, schematics, and system design              |
+| `academic-papers/`         | Academic assignments, abstracts, posters, and scientific papers             |
+| `meetings/`                | Meeting notes, minutes, agendas, and attendance                             |
+| `presentations/`           | Slides and visual materials for presentations                               |
+| `diagrams/`                | UML diagrams, block diagrams, data flow diagrams                            |
+| `references/`              | Bibliographic references and external resources                             |
+
+---
+
+## 🧾 License
+
+All contents of this repository are licensed under:  
+**Creative Commons Attribution 4.0 International (CC BY 4.0)**  
+You may share, copy, and adapt the materials with proper credit.
+
+---
+
+## 👥 Contributors
+
+- Enzo Rocha Leite Diniz Ribas *(Coordinator)*  
+- Eduardo do Amaral Melo Pereira  
+- Lucas Weiss Telles de Matos  
+- Carlos Eduardo Lopes Caetano  
+- Moreno Costa Jones  
+- Rafael Alves
+
+See [`teams.md`](https://github.com/gic-2025/robotic-arm-project/blob/main/teams.md) for more details on team roles.
+
+---
+
+## 🏫 Institution
+
+**Dom Helder School – Computer Science Department**  
+Supervisors: Prof. Ricardo Luiz Freitas, Prof. Presleyson Lima
+
+---
