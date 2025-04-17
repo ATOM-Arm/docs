@@ -10,7 +10,7 @@ This repository is organized into the following directories:
 
 | Folder                      | Description                                                                 |
 |----------------------------|-----------------------------------------------------------------------------|
-| `requirements/`            | Initial technical, functional, and academic requirements                    |
+| `requirements/`            | Initial technical, functional, and academic requirements                     |
 | `project-charter/`         | General planning, objectives, and scope definition                          |
 | `technical-docs/`          | Engineering documents: circuits, schematics, and system design              |
 | `academic-papers/`         | Academic assignments, abstracts, posters, and scientific papers             |
