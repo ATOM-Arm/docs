@@ -18,6 +18,9 @@ This repository is organized into the following directories:
 | `presentations/`           | Slides and visual materials for presentations                               |
 | `diagrams/`                | UML diagrams, block diagrams, data flow diagrams                            |
 | `references/`              | Bibliographic references and external resources                             |
+| [branching.md/](https://github.com/ATOM-Robot-Arm-Project/docs/blob/main/branching.md)              | Explains how to manage and use branches in our repository                             |
+| `timeline.md`              | Contains all agenda and schedules of the project                             |
+| `references.md`              | Contains all references used in this project                            |
 
 ---
 
@@ -38,13 +41,13 @@ You may share, copy, and adapt the materials with proper credit.
 - Moreno Costa Jones  
 - Rafael Alves
 
-See [`teams.md`](https://github.com/gic-2025/robotic-arm-project/blob/main/teams.md) for more details on team roles.
+See [`teams.md`](https://github.com/ATOM-Robot-Arm-Project/ATOM-project/blob/main/teams.md) for more details on team roles.
 
 ---
 
 ## 🏫 Institution
 
-**Dom Helder School – Computer Science Department**  
+**Dom Helder Câmara University Center – Computer Science Department**  
 Supervisors: Prof. Ricardo Luiz Freitas, Prof. Presleyson Lima
 
 ---
