@@ -1,4 +1,4 @@
-# Branching Guide for the Project
+[# Branching Guide for the Project
 
 This document explains how to manage and use branches in our repository. The branch structure is organized into **long branches** (for main areas of the project) and **short branches** (for specific tasks, such as new features).
 
@@ -78,3 +78,4 @@ These branches are created from the long branches and serve specific features an
   git status
   git add {resolved-files}
   git commit -m "Resolve merge conflicts"
+](https://github.com/ATOM-Robot-Arm-Project/ATOM-project/blob/main/contributing.md)
