@@ -15,11 +15,6 @@ This document explains how to manage and use branches in our repository. The bra
    - **Usage**: All developers should merge their features into `development` first.
    - **How to update**: Use `git pull origin development` to update your local branch with the latest changes.
 
-3. **`documentation`**:
-   - A branch dedicated to the project documentation.
-   - **Usage**: If you need to update the documentation (e.g., updates to README, guides, etc.), create a branch from `documentation` and merge back into it.
-   - **How to update**: Documentation will be maintained separately from the codebase, allowing more frequent and specific updates.
-
 ### Short Branches
 These branches are created from the long branches and serve specific features and bug fixes. 
 
