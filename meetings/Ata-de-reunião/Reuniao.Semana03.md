@@ -1,18 +1,45 @@
-## Resumo da Reunião:
-### Na reunião realizada na data de hoje, foram abordados os seguintes pontos:
+# ATA DA 3ª REUNIÃO – PROJETO DE INICIAÇÃO CIENTÍFICA: BRAÇO ROBÓTICO
 
-### Apresentação do Relatório de Preços e Logística:
-Foram apresentados os valores estimados para os materiais e serviços necessários ao projeto, bem como a estrutura logística para a execução das atividades.
+**Data:** 19 de maio de 2025  
+**Local:** Faculdade / Sala de Projetos  
+**Participantes:** [Inserir nomes dos participantes, se necessário]
 
-### Teste de Impressão:
-Ficou decidido que será realizado um teste de impressão utilizando a impressora da Faculdade. Também será avaliada a viabilidade de uso de impressoras pessoais disponibilizadas pelo professor monitor Ricardo.
+---
 
-### Discussão de Alterações no Projeto:
-Foram discutidas possíveis modificações em algumas peças do projeto, com o objetivo de aprimorar a correlação e a funcionalidade dos componentes envolvidos.
+## Pautas Discutidas
 
-### Encaminhamentos Finais:
-Realizar o teste de impressão nas impressoras mencionadas.
+### 1. Apresentação do Relatório de Preços e Logística
+- Apresentação dos valores estimados para aquisição de materiais e contratação de serviços.
+- Definição da estrutura logística para transporte, armazenamento e organização dos recursos necessários.
 
-Analisar as possíveis alterações nas peças e validar com o restante da equipe técnica.
+### 2. Testes de Impressão 3D
+- Decisão de realizar testes com a impressora da Faculdade.
+- Avaliação da viabilidade de uso de impressoras pessoais disponibilizadas pelo professor monitor Ricardo.
 
-Atribuição das atividades relacionadas a cada membro do grupo pelo Github
+### 3. Discussão de Alterações no Projeto
+- Análise de modificações em peças do braço robótico para melhorar integração e funcionalidade.
+- Propostas de ajustes estruturais com foco em otimização de montagem e desempenho.
+
+### 4. Coordenação de Tarefas via GitHub
+- Tarefas atribuídas aos membros com base nas áreas técnicas (Impressão 3D, Eletrônica, Software, etc.).
+- Organização e acompanhamento do progresso pelo repositório do projeto.
+
+---
+
+## Encaminhamentos
+
+- ✅ Realizar testes de impressão nas impressoras disponíveis.
+- ✅ Validar as modificações sugeridas nas peças junto à equipe técnica.
+- ✅ Atualizar o repositório com divisão de tarefas e registros técnicos.
+- 🔜 Consolidar documentação dos testes e decisões tomadas.
+
+---
+
+## Observações Finais
+
+A equipe demonstrou alinhamento nas decisões técnicas e operacionais. A utilização colaborativa dos recursos e o uso do GitHub como ferramenta de coordenação contribuem para o avanço estruturado e eficiente do projeto.
+
+---
+
+📁 *Arquivo registrado em:* `docs/atas/ata_03.md`  
+✍️ *Última edição:* [Seu Nome ou Username] – 19/05/2025
