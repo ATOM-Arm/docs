@@ -1,4 +1,14 @@
+<!-- 
 
+Nome do arquivo deve seguir o padrão:
+
+xth_weekly_minute.md
+
+Exemplo:
+
+4th_weekly_minute.md 
+
+-->
 # ATA DA Xª REUNIÃO DO GRUPO DE INICIAÇÃO CIENTÍFICA – BRAÇO ROBÓTICO
 
 **Data da Reunião:** xx de mes de 202X  

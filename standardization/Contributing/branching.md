@@ -1,6 +1,6 @@
 # Branching Guide for the Project
 
-This document explains how to manage and use branches in any repository of this project. The branch structure is organized into **long branches** (for main areas of the project) and **short branches** (for specific tasks, such as new features).
+This document explains the standart of how to manage and use branches in any repository of this project. The branch structure is organized into **long branches** (for main areas of the project) and **short branches** (for specific tasks, such as new features).
 
 ## Branch Structure
 
@@ -167,3 +167,4 @@ These branches are created from the long branches and serve specific features an
   git status
   git add {resolved-files}
   git commit -m "Resolve merge conflicts"
+  ```
