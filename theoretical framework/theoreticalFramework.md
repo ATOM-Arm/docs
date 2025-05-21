@@ -1,4 +1,4 @@
-# 📚 Referências Bibliográficas e Técnicas
+# 📚 Theoretical Framework
 
 - OpenCV Documentation – https://docs.opencv.org/
 - CVZone GitHub – https://github.com/cvzone/cvzone
