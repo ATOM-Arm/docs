@@ -18,31 +18,18 @@ This document explains the standart of how to manage and use branches in any rep
 ## 🧩 Branch Naming Convention 
 ### Use the following format for all branch names:
 
-<type>(ATOM-RepositoryAcronym): description-in-kebab-case
-
-**Allowed types:**
-
-| Type       | Meaning                            |
-|------------|------------------------------------|
-| `feat`     | New feature                        |
-| `fix`      | Bug fix                            |
-| `refactor` | Code refactoring                   |
-| `docs`     | Documentation changes              |
-| `test`     | Adding or updating tests           |
-| `ci`       | CI/CD or pipeline changes          |
-| `chore`    | Other tasks (build, infra, etc.)   |
+(ATOM-RepositoryAcronym): description-in-kebab-case
 
 **Examples:**
-- `feat(ATOM-SOFT): add-bluetooth-module-support`
-- `fix(ATOM-HARD): fix-login-endpoint-response`
-- `docs(ATOM-DOCS): update-deployment-guide`
+- `(ATOM-HARD): fix-login-endpoint-response`
+- `(ATOM-DOCS): update-deployment-guide`
 
 ### Commits must follow the same structure as branches:
-<type>(ATOM-REPOSITORYNAME): short and clear description in imperative form
+<type>: short and clear description in imperative form
 **Examples:**
-- `feat(ATOM-FIRMWARE): implement ultrasonic sensor`
-- `fix(ATOM-API): fix token validation`
-- `chore(ATOM-WEB): remove outdated dependencies`
+- `feat: implement ultrasonic sensor`
+- `fix: fix token validation`
+- `chore: remove outdated dependencies`
 
 ---
 
