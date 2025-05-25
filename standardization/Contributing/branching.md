@@ -21,8 +21,8 @@ This document explains the standart of how to manage and use branches in any rep
 (ATOM-RepositoryAcronym): description-in-kebab-case
 
 **Examples:**
-- `ATOM-HARD: fix-login-endpoint-response`
-- `ATOM-DOCS: update-deployment-guide`
+- `ATOM-HARD-: fix-login-endpoint-response`
+- `ATOM-DOCS-: update-deployment-guide`
 
 ### Commits must follow the same structure as branches:
 <type>: short and clear description in imperative form
