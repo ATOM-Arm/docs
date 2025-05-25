@@ -15,10 +15,19 @@ This document explains the standart of how to manage and use branches in any rep
    - **Usage**: All developers should merge their features into `development` first.
    - **How to update**: Use `git pull origin development` to update your local branch with the latest changes.
 
-## 🧩 Branch Naming Convention 
+## 🧩 Branch Naming Convention (⚠ **Pull Requests without this convention will be denied.**)
+
 ### Use the following format for all branch names:
 
 (ATOM-RepositoryAcronym): description-in-kebab-case
+
+| Repository     | Branch Prefix Acronym  /
+|----------------|----------------------------------------------------|
+| `hardware`     | `ATOM-HW-` | 
+| `software`     | `ATOM-SW-`| 
+| `atom-project` | `ATOM-PJT-`| 
+| `docs`         | `ATOM-DOCS-`      | 
+| `utils`        | `ATOM-UTILS-`      |
 
 **Examples:**
 - `ATOM-HARD-: fix-login-endpoint-response`
@@ -40,6 +49,17 @@ When opening a PR, use this format for the title:
 
 ### Convention per Repository
 
+| Repository     | Branch / Commit / PR Prefix Acronym                 |
+|----------------|----------------------------------------------------|
+| `hardware`     | `feat(ATOM-HW-): description`|
+| `software`     | `fix(ATOM-SW-): description`|
+| `atom-project` | `chore(ATOM-PJT-): description`|
+| `docs`         | `docs(ATOM-DOCS-): description`      |
+| `utils`        | `feat(ATOM-UTILS-): description`      |
+
+
+**Examples:**
+
 | Repository     | Branch / Commit / PR Prefix Example                | Description Example                        |
 |----------------|----------------------------------------------------|--------------------------------------------|
 | `hardware`     | `feat(ATOM-HW-): integrate-ultrasonic-sensor`| For all firmware, electronics or embedded  |
@@ -47,12 +67,6 @@ When opening a PR, use this format for the title:
 | `atom-project` | `chore(ATOM-PJT-): restructure-project-folders`| General coordination / umbrella repo       |
 | `docs`         | `docs(ATOM-DOCS-): update-installation-guide`      | Documentation, diagrams, manuals           |
 | `utils`        | `feat(ATOM-UTILS-): add-serial-parser-script`      | Scripts, helpers, automation tools         |
-
-
-**Examples:**
-- `feat(ATOM-SW-) - Add OLED display support`
-- `fix(ATOM-DOCS-) - Fix OAuth authentication`
-- `docs(ATOM-UTILS-) - Improve contribution guide`
 
 Include in the PR body:
 - Reference to the related issue (e.g., `Closes #42`)
@@ -72,24 +86,6 @@ Before submitting your pull request, make sure:
 - [ ] The CI pipeline passed successfully (if any)
 
 ---
-
-## 🤖 Contribution Tips
-
-- Always pull the latest changes from `main` before starting (`git pull origin main`)
-- Use **Squash Merge** to keep a clean commit history
-- Make atomic and meaningful commits
-- Keep branches small and focused
-
----
-
-## 💬 Contact the Team
-
-If you have any questions, suggestions, or issues, feel free to open an issue or contact the project maintainers.
-
-Thanks for being part of the ATOM project! 🚀
----
-
-- Pull Requests without this convention will be denied.
 
 ### Short Branches
 These branches are created from the long branches and serve specific features and bug fixes. 
@@ -155,3 +151,19 @@ These branches are created from the long branches and serve specific features an
   git add {resolved-files}
   git commit -m "Resolve merge conflicts"
   ```
+
+## 🤖 Contribution Tips
+
+- Always pull the latest changes from `main` before starting (`git pull origin main`)
+- Use **Squash Merge** to keep a clean commit history
+- Make atomic and meaningful commits
+- Keep branches small and focused
+
+---
+
+## 💬 Contact the Team
+
+If you have any questions, suggestions, or issues, feel free to open an issue or contact the project maintainers.
+
+Thanks for being part of the ATOM project! 🚀
+---
