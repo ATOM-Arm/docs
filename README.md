@@ -10,17 +10,16 @@ This repository is organized into the following directories:
 
 | Folder                      | Description                                                                 |
 |----------------------------|-----------------------------------------------------------------------------|
-| `requirements/`            | Initial technical, functional, and academic requirements                     |
-| `project-charter/`         | General planning, objectives, and scope definition                          |
-| `technical-docs/`          | Engineering documents: circuits, schematics, and system design              |
-| `academic-papers/`         | Academic assignments, abstracts, posters, and scientific papers             |
+| `.github/`                | Github Configuration Files                            |
+| `design/`            | Visual Identity of the project                     |
 | `meetings/`                | Meeting notes, minutes, agendas, and attendance                             |
-| `presentations/`           | Slides and visual materials for presentations                               |
-| `diagrams/`                | UML diagrams, block diagrams, data flow diagrams                            |
-| `references/`              | Bibliographic references and external resources                             |
-| [branching.md/](https://github.com/ATOM-Robot-Arm-Project/docs/blob/main/branching.md)              | Explains how to manage and use branches in our repository                             |
-| `timeline.md`              | Contains all agenda and schedules of the project                             |
-| `references.md`              | Contains all references used in this project                            |
+| `methodology/`         | Academic assignments, abstracts, posters, and scientific papers             |
+| [`paper/`](https://github.com/ATOM-Robot-Arm-Project/docs/tree/main/paper)           | Articles resulted by the project                               |
+| `scripts/`                | CICD Files                            |
+| `theoretical_framework/`              | Bibliographic references and external resources                             |
+| [`standardization/`](https://github.com/ATOM-Robot-Arm-Project/docs/tree/main/standardization)              | Explains how users should contribute for the project and which patterns they should use                            |
+| `LICENSE.md`              | This repository License.                             |
+| `LICENSES.md`              | Explains the types of the LINCESES used in this project                           |
 
 ---
 
@@ -34,14 +33,16 @@ You may share, copy, and adapt the materials with proper credit.
 
 ## 👥 Contributors
 
-- Enzo Rocha Leite Diniz Ribas *(Coordinator)*  
+- Enzo Rocha Leite Diniz Ribas *(Coordinator)*
 - Eduardo do Amaral Melo Pereira  
 - Lucas Weiss Telles de Matos  
-- Carlos Eduardo Lopes Caetano  
-- Moreno Costa Jones  
+- Carlos Eduardo Lopes Caetano
+- Pedro Lucas Vieira Ramalho
+- João Augusto Vieira Ramalho
 - Rafael Alves
+- Moreno Costa Jones  
 
-See [`teams.md`](https://github.com/ATOM-Robot-Arm-Project/ATOM-project/blob/main/teams.md) for more details on team roles.
+See [`teams.md`](https://github.com/ATOM-Robot-Arm-Project/docs/blob/main/methodology/teams.md) for more details on team roles.
 
 ---
 
