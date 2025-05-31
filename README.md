@@ -51,4 +51,4 @@ See [`teams.md`](https://github.com/ATOM-Robot-Arm-Project/docs/blob/main/method
 **Dom Helder Câmara University Center – Computer Science Department**  
 Supervisors: Prof. Ricardo Luiz Freitas, Prof. Presleyson Lima
 
-----
+---
