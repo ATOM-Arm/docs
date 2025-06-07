@@ -13,6 +13,11 @@ Exemplo:
 
 **Data da Reunião:** xx de mes de 202X  
 
+**Membros Presentes:**
+- Nome do Membro 1
+- Nome do Membro 2
+- ...
+
 ---
 
 ## Pautas Discutidas
